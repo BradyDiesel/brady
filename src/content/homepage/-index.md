@@ -1,12 +1,11 @@
 ---
 # Banner
 banner:
-  title: Welcome to Brady Diesel Services. Here at Brady, we are the best
-    mechanics you can get.
+  title: Welcome to Brady Diesel Services. We service diesel and petro based vehicles.
   content: Brady Diesel Services specializes in servicing a wide range of vehicles
     and engines, providing expert maintenance and repair solutions to meet
     diverse client needs.
-  image: /images/bgrdbrand.jpg
+  image: /images/bgrdbrand_copy(1).jpg
   button:
     enable: true
     label: Schedule a Repair Online
