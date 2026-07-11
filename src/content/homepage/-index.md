@@ -5,7 +5,7 @@ banner:
   content: Brady Diesel Services specializes in servicing a wide range of vehicles
     and engines, providing expert maintenance and repair solutions to meet
     diverse client needs.
-  image: /images/bgrdbrand2.jpg
+  image: ""
   button:
     enable: true
     label: Schedule a Repair Online
@@ -13,11 +13,10 @@ banner:
 
 # Features
 features:
-  - title: What's Included in Astroplate
-    image: /images/service-1.png
-    content: Astroplate is a comprehensive starter template that includes everything
-      you need to get started with your Astro project. What's Included in
-      Astroplate
+  - title: What we work on?
+    image: /images/bgrdbrand.png
+    content: Oilcanic Mobile Services works on diesel, hydraulic, transmission, and
+      electrical systems.
     bulletpoints:
       - 10+ Pre-build pages
       - 95+ Google Pagespeed Score
