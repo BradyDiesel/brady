@@ -4,7 +4,7 @@
     "base_url": "https://astroplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/Image.jpg",
     "logo": "/images/logolge2.jpg",
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "100",
