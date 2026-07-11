@@ -5,7 +5,7 @@ banner:
   content: Brady Diesel Services specializes in servicing a wide range of vehicles
     and engines, providing expert maintenance and repair solutions to meet
     diverse client needs.
-  image: /images/bgrdbrand_copy(1).jpg
+  image: /images/bgrdbrand.jpg
   button:
     enable: true
     label: Schedule a Repair Online
