@@ -18,12 +18,13 @@ features:
     content: Oilcanic Mobile Services works on diesel, hydraulic, transmission, and
       electrical systems.
     bulletpoints:
-      - 10+ Pre-build pages
-      - 95+ Google Pagespeed Score
-      - Build with Astro and TailwindCSS for easy and customizable styling
-      - Fully responsive on all devices
-      - SEO-optimized for better search engine rankings
-      - "**Open-source and free** for personal and commercial use"
+      - Light Towers, Skid Steers, Excavators, Front End Loaders, Telehandlers,
+        Forklifts, and other Heavy Machinery
+      - Light Duty Trucks ( Pick ups)
+      - Medium Duty Trucks ( Box Trucks) Class 4-7
+      - Heavy Duty "Semi Trucks" (Class 8)
+      - Hydraulics, Repacks, Rebuilds, and related
+      - Electrical and Diagnostic Troubleshooting
     button:
       enable: false
       label: Get Started Now
