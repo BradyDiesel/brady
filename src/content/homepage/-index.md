@@ -43,7 +43,7 @@ features:
       enable: true
       label: Get Started Now
       link: https://github.com/zeon-studio/astroplate
-  - title: The Top Reasons to Choose Astro for Your Next Project
+  - title: Choose Brady to help repair your vehicle.
     image: /images/boxtruck.webp
     content: Medium Duty Trucks to Semi Trucks
     bulletpoints:
