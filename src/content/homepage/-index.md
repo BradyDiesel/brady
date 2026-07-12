@@ -44,19 +44,17 @@ features:
       label: Get Started Now
       link: https://github.com/zeon-studio/astroplate
   - title: The Top Reasons to Choose Astro for Your Next Project
-    image: /images/service-3.png
-    content: With Astro, you can build modern and content-focused websites without
-      sacrificing performance or ease of use.
+    image: /images/boxtruck.webp
+    content: Medium Duty Trucks to Semi Trucks
     bulletpoints:
-      - Instantly load static sites for better user experience and SEO.
-      - Intuitive syntax and support for popular frameworks make learning and
-        using Astro a breeze.
-      - Use any front-end library or framework, or build custom components, for
-        any project size.
-      - Built on cutting-edge technology to keep your projects up-to-date with
-        the latest web standards.
+      - Engine, ABS and Chassis Software
+      - Fast Diagnostics and Troubleshooting using Software to troubleshoot the
+        problem
+      - Repairs done fast and more affordable than other repair centers.
+      - Source of parts done via aftermarket or dealer your choice.
     button:
       enable: false
       label: ""
       link: ""
 ---
+​
