@@ -22,7 +22,7 @@
   },
   "announcement": {
     "enable": true,
-    "content": "<span class='text-center block'> Need Roadside Assistance? <a class='underline' href='https://github.com/zeon-studio/astroplate' target='_blank' rel='noopener'>Request it here.</a></span>",
+    "content": "<span class='text-center block'> Need Roadside Assistance? <a class='underline' href='https://calendly.com/brady-diesels/diesel-diagnostics' target='_blank' rel='noopener'>Request it here.</a></span>",
     "expire_days": 7
   },
   "params": {
