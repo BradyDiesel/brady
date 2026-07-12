@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: Schedule a Repair Online
-    link: https://app.sitepins.com/new/clone?name=Astroplate&repository=https://github.com/zeon-studio/astroplate?aff=astroplate
+    link: https://calendly.com/brady-diesels/diesel-diagnostics
 
 # Features
 features:
