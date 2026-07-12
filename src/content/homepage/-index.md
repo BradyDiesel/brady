@@ -29,16 +29,16 @@ features:
       enable: false
       label: Get Started Now
       link: "#"
-  - title: Discover the Key Features Of Astro
-    image: /images/service-2.png
-    content: "Astro is an all-in-one web framework for building fast,
-      content-focused websites. It offers a range of exciting features for
-      developers and website creators. Some of the key features are:"
+  - title: Hydraulic Pistons, Hoses, Solenoids and Electrical are our main offerings
+      and we can fix your equipment fast.
+    image: /images/bgrdbrand.jpg
+    content: Brady & Oilcanic Mobile Services are ready to tackle your job on and
+      get it taken care of.
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose
-        from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - Repairs done in hours, not days or even weeks to keep your downtime
+        literally zero.
+      - Diagnostics Software for most machines Bobcat to Vermeer
+      - We can source out parts for most machines.
     button:
       enable: true
       label: Get Started Now
