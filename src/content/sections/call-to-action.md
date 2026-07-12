@@ -1,10 +1,11 @@
 ---
 enable: true
-title: "Ready to build your next project with Astro?"
-image: "/images/call-to-action.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+title: "Ready for Brady to help with your repair?"
+image: "/images/001-2006-cummins-dodge-ram-2500.jpg"
+description: "We can get it done. We can also rebuild your engine. Affordable
+  done on your time."
 button:
   enable: true
-  label: "Fork Deploy and Edit Online 🚀"
-  link: "https://app.sitepins.com/new/clone?name=Astroplate&repository=https://github.com/zeon-studio/astroplate?aff=astroplate"
+  label: Fork Deploy and Edit Online 🚀
+  link: https://app.sitepins.com/new/clone?name=Astroplate&repository=https://github.com/zeon-studio/astroplate?aff=astroplate
 ---
