@@ -13,9 +13,9 @@
       "url": "/pricing"
     },
     {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
+      "name": "Call Brady Diesel",
+      "url": "tel:+12109980647",
+      "hasChildren": false,
       "children": [
         {
           "name": "Contact",
@@ -57,5 +57,6 @@
       "name": "Call Brady 210.998.0647",
       "url": "tel:+12109980647"
     }
-  ]
+  ],
+  "draft": false
 }
