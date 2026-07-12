@@ -44,7 +44,7 @@ features:
       label: Get Started Now
       link: https://github.com/zeon-studio/astroplate
   - title: Choose Brady to help repair your vehicle.
-    image: /images/boxtruck.webp
+    image: /images/1418341-std.jpg
     content: Medium Duty Trucks to Semi Trucks
     bulletpoints:
       - Engine, ABS and Chassis Software
