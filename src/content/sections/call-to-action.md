@@ -7,5 +7,5 @@ description: "We can get it done. We can also rebuild your engine. Affordable
 button:
   enable: true
   label: Schedule your service online 🚀
-  link: https://app.sitepins.com/new/clone?name=Astroplate&repository=https://github.com/zeon-studio/astroplate?aff=astroplate
+  link: https://calendly.com/brady-diesels/diesel-diagnostics
 ---
