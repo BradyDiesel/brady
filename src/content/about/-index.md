@@ -1,19 +1,21 @@
 ---
-title: "Hey, I am John Doe!"
+title: "OilCanic! Mobile Service"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/image-placeholder.png"
+image: "/images/logooil.fw.png"
 draft: false
 ---
+Thank you for inquiring about OilCanic Mobile Services a service offered by Brady Diesel Services. Brady has diverted from using Brady Diesel Services for Mobile Services, instead we changed the name to OilCanic, still owned by the original brand but reorganized to simplify our services.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+### What we repair? On Mobile Services
 
-### This is a title
+* Battery Jumpstarts
+* Turbochargers R\&R
+* Injector R\&R
+* Injection Pumps R\&R
+* Total Fuel Systems
+* After-treament Systems
+* Electrical Diagnosis
+* Transmission R\&R
 
-* Lorem ipsum, dolor sit amet
-* Enim voluptatem dicta expedita veritatis
-* Fugit voluptatibus perspiciatis assumenda
-* Enim voluptatem dicta expedita
-* Corporis illum nesciunt commodi vel
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Everything that we R\&R can be on Petro, Diesel, EV, and Natural Gas. All vehicles can be serviced from OilCanic. For more information about a service offered call OilCanic at 210.998.0647.
