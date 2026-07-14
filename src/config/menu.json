@@ -42,6 +42,16 @@
           "url": "/404"
         }
       ]
+    },
+    {
+      "name": "Schedule",
+      "url": "",
+      "children": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ]
     }
   ],
   "footer": [
