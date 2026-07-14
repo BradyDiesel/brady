@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: Schedule a Repair Online
-    link: https://calendly.com/brady-diesels/diesel-diagnostics
+    link: /schedule
 
 # Features
 features:
@@ -42,7 +42,7 @@ features:
     button:
       enable: true
       label: Get Started Now
-      link: https://github.com/zeon-studio/astroplate
+      link: /schedule
   - title: Choose Brady to help repair your vehicle.
     image: /images/1418341-std.jpg
     content: Medium Duty Trucks to Semi Trucks
