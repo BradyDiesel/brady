@@ -13,6 +13,16 @@
       "url": "/pricing"
     },
     {
+      "name": "Schedule",
+      "url": "/schedule",
+      "children": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ]
+    },
+    {
       "name": "Call Brady Diesel",
       "url": "tel:+12109980647",
       "hasChildren": false,
@@ -40,16 +50,6 @@
         {
           "name": "404 Page",
           "url": "/404"
-        }
-      ]
-    },
-    {
-      "name": "Schedule",
-      "url": "",
-      "children": [
-        {
-          "name": "",
-          "url": ""
         }
       ]
     }
