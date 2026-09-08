@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: Schedule a Repair Online
-    link: /schedule
+    link: https://bradygo.com/bradycal
 
 # Features
 features:
