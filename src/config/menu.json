@@ -15,12 +15,7 @@
     {
       "name": "Schedule",
       "url": "https://www.bradygo.com/bradycal",
-      "children": [
-        {
-          "name": "",
-          "url": ""
-        }
-      ]
+      "children": []
     },
     {
       "name": "Call Brady Diesel",
