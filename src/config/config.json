@@ -36,7 +36,7 @@
   },
   "google_tag_manager": {
     "enable": false,
-    "gtm_id": "GTM-XXXXXX"
+    "gtm_id": "GTM-M6SDTSHC"
   },
   "disqus": {
     "enable": true,
