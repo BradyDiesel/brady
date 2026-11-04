@@ -6,6 +6,6 @@ description: "We can get it done. We can also rebuild your engine. Affordable
   done on your time."
 button:
   enable: true
-  label: Schedule your service online 🚀
-  link: https://calendly.com/brady-diesels/diesel-diagnostics
+  label: "Schedule your service online "
+  link: https://bradygo.com/bradycal
 ---
