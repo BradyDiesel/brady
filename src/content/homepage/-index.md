@@ -1,10 +1,11 @@
 ---
 # Banner
 banner:
-  title: Welcome to Brady Diesel Services. We service diesel and petro based vehicles.
-  content: Brady Diesel Services specializes in servicing a wide range of vehicles
-    and engines, providing expert maintenance and repair solutions to meet
-    diverse client needs.
+  title: Welcome to Oilcanic! Mobile Services. We service diesel and petrol based
+    vehicles.
+  content: OilCanic! Mobile Services specializes in servicing a wide range of
+    vehicles and engines, providing expert maintenance and repair solutions to
+    meet diverse client needs.
   image: ""
   button:
     enable: true
@@ -43,7 +44,7 @@ features:
       enable: true
       label: Get Started Now
       link: /schedule
-  - title: Choose Brady to help repair your vehicle.
+  - title: Choose OilCanic! to help repair your vehicle.
     image: /images/1418341-std.jpg
     content: Medium Duty Trucks to Semi Trucks
     bulletpoints:
@@ -57,4 +58,3 @@ features:
       label: ""
       link: ""
 ---
-​
