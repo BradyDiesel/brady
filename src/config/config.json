@@ -35,7 +35,7 @@
     "link": "https://www.bradygo.com"
   },
   "google_tag_manager": {
-    "enable": false,
+    "enable": true,
     "gtm_id": "GTM-M6SDTSHC"
   },
   "disqus": {
